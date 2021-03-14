@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19522d66-4a2c-405b-92db-3ed5afd8fa95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/services/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/assets/login.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-list/pokemon-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/services/pokemon.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/services/pokemon.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemons.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemons.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-pokedexV1/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-pokedexV1/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TP2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../angular-pokedexV1" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1pLGFyecVxOYsP7a1OTeT4IF7gV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (angular-pokedex)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (angular-pokedex)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19522d66-4a2c-405b-92db-3ed5afd8fa95" name="Default Changelist" comment="" />
+      <created>1614954856537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614954856537</updated>
+      <workItem from="1614954861236" duration="136000" />
+      <workItem from="1614955255635" duration="15540000" />
+      <workItem from="1615732187124" duration="403000" />
+      <workItem from="1615732595963" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="262" key="#TSLint" timestamp="1615026339930">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="262" key="#TSLint/0.0.1920.1200@0.0.1920.1200" timestamp="1615026339930" />
+    <state x="773" y="320" key="#com.intellij.ide.util.MemberChooser" timestamp="1615018159549">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="773" y="320" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1615018159549" />
+    <state width="939" height="308" key="GridCell.Tab.0.bottom" timestamp="1615016906151">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state width="939" height="308" key="GridCell.Tab.0.bottom/0.25.1920.1175@0.25.1920.1175" timestamp="1615016906151" />
+    <state width="939" height="308" key="GridCell.Tab.0.center" timestamp="1615016906151">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state width="939" height="308" key="GridCell.Tab.0.center/0.25.1920.1175@0.25.1920.1175" timestamp="1615016906151" />
+    <state width="939" height="308" key="GridCell.Tab.0.left" timestamp="1615016906151">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state width="939" height="308" key="GridCell.Tab.0.left/0.25.1920.1175@0.25.1920.1175" timestamp="1615016906151" />
+    <state width="939" height="308" key="GridCell.Tab.0.right" timestamp="1615016906151">
+      <screen x="0" y="25" width="1920" height="1175" />
+    </state>
+    <state width="939" height="308" key="GridCell.Tab.0.right/0.25.1920.1175@0.25.1920.1175" timestamp="1615016906151" />
+    <state x="469" y="236" key="SettingsEditor" timestamp="1615016528089">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="236" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1615016528089" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../angular-pokedexV1/src/app/pokemons/pokemon-detail/pokemon-detail.component.ts</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
